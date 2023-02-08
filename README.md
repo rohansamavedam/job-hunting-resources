@@ -124,3 +124,5 @@ can get a time optimization to the process. In programming, you often times can 
 more space to get faster time
 And always remember: Communicate your thought process as much as possible. Don’t worry about
 finishing it fast. Every part of the interview matters.
+
+Datastructure and language support: https://medium.com/omarelgabrys-blog/data-structures-language-support-5f70f8312e84
