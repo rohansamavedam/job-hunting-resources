@@ -1,5 +1,7 @@
 # job-hunting-resources
 
+webiste to understand & visualize the working of data structures and graphs: https://visualgo.net/en
+
 ## resume-templates
 [How to write an effective developer resume: Advice from a hiring manager](https://stackoverflow.blog/2020/11/25/how-to-write-an-effective-developer-resume-advice-from-a-hiring-manager/).     
 [Online Latex Resume Builder using Overleaf](https://www.overleaf.com/project).     
